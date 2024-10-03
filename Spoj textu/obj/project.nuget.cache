@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "FbUka5pTyPY=",
+  "dgSpecHash": "E8/c+4hV86A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jakub.funk\\RiderProjects\\Spoj textu\\Spoj textu\\Spoj textu.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Jakub.funk\\OneDrive - Střední škola EDUCHEM, a.s\\Dokumenty\\GitHub\\ALP-Work\\Spoj textu\\Spoj textu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jakub.funk\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.8\\microsoft.netcore.app.ref.8.0.8.nupkg.sha512",
+    "C:\\Users\\Jakub.funk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.8\\microsoft.windowsdesktop.app.ref.8.0.8.nupkg.sha512",
+    "C:\\Users\\Jakub.funk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.8\\microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512",
+    "C:\\Users\\Jakub.funk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.8\\microsoft.netcore.app.host.win-x64.8.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

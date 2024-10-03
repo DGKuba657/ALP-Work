@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Spoj textu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+197e35b1a2c1f591b5de2be224ca371ad6f500be")]
 [assembly: System.Reflection.AssemblyProductAttribute("Spoj textu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Spoj textu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

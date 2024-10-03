@@ -1,4 +1,4 @@
-﻿namespace SpojovacTextu;
+﻿namespace Spoj_Textu;
 
 public class Spoj
 {
